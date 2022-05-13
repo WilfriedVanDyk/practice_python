@@ -14,6 +14,9 @@
         ".",
         "-p",
         "*_test.py"
-    ]
-    
+    ],
+    "python.linting.banditEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": true
 }

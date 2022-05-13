@@ -1,0 +1,12 @@
+AutoFilter functionality
+See “Selecting by boolean indexing” on page 94.
+
+VLOOKUP formula
+See “Joining and Merging” on page 109.
+
+Pivot Table
+See “Pivoting and Melting” on page 113.
+
+Power Query
+This is a combination of “Importing and Exporting DataFrames” on page 119,
+“Data Manipulation” on page 91, and “Combining DataFrames” on page 107.
