@@ -1,7 +1,7 @@
 # practice_python
 like I said: 
 => practice python :) (Deitel intro to python)
-=> xlWings: python for excel (Zumstein) (pag 126)
+=> xlWings: python for excel (Zumstein) (pag 130)
 
 => excel: dashboard (linkedin course)(Done)
 
